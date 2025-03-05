@@ -121,12 +121,7 @@ A PM managing a **mobile app development project**, ensuring developers, designe
 | **Software Developer** | Writes and maintains code, implements features | Backend developer creating a payment system |
 | **QA Engineer** | Tests software, finds and reports bugs | QA testing a banking app for transaction errors |
 | **Project Manager** | Plans, monitors, and manages the project | PM overseeing a mobile app launch |
-
-### **Conclusion**  
-Each role plays a crucial part in software development:  
-- **Developers** build the product.  
-- **QA Engineers** ensure quality and reliability.  
-- **Project Managers** coordinate efforts to keep everything on track.  
+ 
 
 ## Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS)  
 
@@ -154,8 +149,6 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 - **Git** – The most widely used distributed VCS.  
 - **Apache Subversion (SVN)** – Centralized VCS for version tracking.  
 
----
-
 ## Common Challenges Faced by Software Engineers & Strategies to Overcome Them  
 
 | **Challenge** | **Description** | **Strategy to Overcome** |
@@ -166,7 +159,6 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 | **Handling Merge Conflicts** | Conflicts in code changes when using VCS | Regular commits, pull requests, and proper branching strategies |
 | **Ensuring Software Security** | Protecting applications from cyber threats | Follow secure coding practices, use encryption, and conduct security audits |
 
----
 
 ## Types of Software Testing & Their Importance  
 
@@ -177,7 +169,6 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 | **System Testing** | Tests the entire application | Confirms overall system functionality |
 | **Acceptance Testing** | Validates software meets user requirements | Ensures the final product is ready for release |
 
----
 
 # Part 2: Introduction to AI and Prompt Engineering
 
@@ -190,7 +181,6 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 - **Improves Efficiency** – Saves time by reducing back-and-forth clarifications.  
 - **Optimizes AI Capabilities** – Helps unlock AI’s full potential for automation, analysis, and creativity.  
 
----
 
 ## **Example: Improving a Vague Prompt**  
 
@@ -206,4 +196,3 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 ✅ **Concise** – Uses direct language while keeping it detailed.  
 ✅ **Contextual** – Requests **real-world examples**, ensuring practical insights.  
 
----
