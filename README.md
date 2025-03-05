@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 # Part 1: Introduction to Software Engineering
 
-## What is Software Engineering?
+## A. Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic approach to designing, developing, testing, and maintaining software.  
 It applies engineering principles to ensure software is **reliable, efficient, and scalable**.
 
@@ -16,13 +16,13 @@ It applies engineering principles to ensure software is **reliable, efficient, a
 - **Enables Scalability** – Supports large-scale applications like banking and e-commerce.  
 - **Transforms Industries** – Improves efficiency in healthcare and finance.  
 
-## Key Milestones in Software Engineering
+## B. Identify and describe at least three key milestones in the evolution of software engineering.
 
 - **Software Engineering as a Discipline (1968)** – The NATO Conference formalized software engineering to address the "software crisis."
 - **Object-Oriented Programming (1970s–1980s)** – Languages like Smalltalk and C++ introduced modular, reusable code, improving software design.
 - **Agile Methodologies (2001)** – The Agile Manifesto shifted development from rigid models to flexible, iterative approaches.
 
-## Phases of the Software Development Life Cycle (SDLC)
+## C. List and briefly explain the phases of the Software Development Life Cycle.
 
 1. **Planning** – Defines project scope, objectives, and feasibility to ensure alignment with business goals.  
 2. **Requirement Analysis** – Gathers and documents user and system requirements for clear project expectations.  
@@ -32,7 +32,7 @@ It applies engineering principles to ensure software is **reliable, efficient, a
 6. **Deployment** – Releases the software for users, either as a full launch or phased rollout.  
 7. **Maintenance** – Provides updates, bug fixes, and improvements to keep the software functional and secure.  
 
-## Waterfall vs. Agile Methodologies  
+## D. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 ### 1. Waterfall Methodology  
 Waterfall follows a **linear and sequential** approach where each phase must be completed before moving to the next.  
@@ -68,12 +68,9 @@ A **startup developing a mobile app**, where user feedback influences frequent u
 | **Documentation** | Heavy upfront documentation | Light, evolving documentation |
 | **Delivery** | One-time release at the end | Continuous small releases |
 | **Client Involvement** | Limited after initial planning | Ongoing collaboration |
+ 
 
-### **Conclusion**  
-- Use **Waterfall** when the scope is clear, changes are minimal, and strict documentation is needed.  
-- Use **Agile** when flexibility, quick iterations, and user feedback are critical.  
-
-## Roles and Responsibilities in a Software Engineering Team  
+## E. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. 
 
 ### 1. Software Developer  
 A **Software Developer** is responsible for writing, testing, and maintaining code to build software applications.  
@@ -123,7 +120,7 @@ A PM managing a **mobile app development project**, ensuring developers, designe
 | **Project Manager** | Plans, monitors, and manages the project | PM overseeing a mobile app launch |
  
 
-## Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS)  
+## F. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. 
 
 ### 1. Integrated Development Environments (IDEs)  
 IDEs are software tools that provide a comprehensive environment for writing, testing, and debugging code.  
@@ -149,7 +146,7 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 - **Git** – The most widely used distributed VCS.  
 - **Apache Subversion (SVN)** – Centralized VCS for version tracking.  
 
-## Common Challenges Faced by Software Engineers & Strategies to Overcome Them  
+## G. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges. 
 
 | **Challenge** | **Description** | **Strategy to Overcome** |
 |--------------|----------------|--------------------------|
@@ -160,7 +157,7 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 | **Ensuring Software Security** | Protecting applications from cyber threats | Follow secure coding practices, use encryption, and conduct security audits |
 
 
-## Types of Software Testing & Their Importance  
+## ## H. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.  
 
 | **Testing Type** | **Purpose** | **Importance** |
 |----------------|------------|--------------|
@@ -172,7 +169,8 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 
 # Part 2: Introduction to AI and Prompt Engineering
 
-## What is Prompt Engineering?  
+## I. Define prompt engineering and discuss its importance in interacting with AI models. 
+**Definition:** 
 **Prompt engineering** is the practice of crafting well-structured and precise prompts to guide AI models in generating accurate and relevant responses. It is essential in ensuring AI provides useful and meaningful outputs.  
 
 ### **Importance of Prompt Engineering**  
@@ -182,7 +180,7 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 - **Optimizes AI Capabilities** – Helps unlock AI’s full potential for automation, analysis, and creativity.  
 
 
-## **Example: Improving a Vague Prompt**  
+## J. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. 
 
 ### **Vague Prompt:**  
 *"Tell me about technology."*  
@@ -191,8 +189,8 @@ VCS track changes in code, allowing developers to collaborate and maintain diffe
 *"Provide a brief overview of emerging technologies in 2024, including AI, blockchain, and quantum computing, with real-world examples."*  
 
 ### **Why is the Improved Prompt More Effective?**  
-✅ **Specific** – Focuses on emerging technologies instead of broad "technology."  
-✅ **Clear** – Specifies **2024**, narrowing down the timeframe.  
-✅ **Concise** – Uses direct language while keeping it detailed.  
-✅ **Contextual** – Requests **real-world examples**, ensuring practical insights.  
+ **Specific** – Focuses on emerging technologies instead of broad "technology."  
+ **Clear** – Specifies **2024**, narrowing down the timeframe.  
+ **Concise** – Uses direct language while keeping it detailed.  
+ **Contextual** – Requests **real-world examples**, ensuring practical insights.  
 
